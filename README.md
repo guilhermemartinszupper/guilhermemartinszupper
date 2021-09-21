@@ -5,7 +5,7 @@ Sou apaixonado por tecnologia e tudo que envolve esse universo maravilhoso de T.
 Atualmente Trabalho como Java Developer na Zup Innovation e
 estou cursando Analise e Desenvolvimento na FAM - Faculdade das Americas 
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AvelFir&repo=AvelFir&countColorcountColor)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=guilhermemartinszupper&repo=guilhermemartinszupper&countColorcountColor)
 
 ### Languages & Tools 🛠  
 
@@ -17,11 +17,11 @@ estou cursando Analise e Desenvolvimento na FAM - Faculdade das Americas
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvelFir&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemartinszupper&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=AvelFir&count_private=true&show_icons=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=guilhermemartinszupper&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AvelFir&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=guilhermemartinszupper&hide_border=true)
 
 ### Vamos nos conectar? 🤝
 
